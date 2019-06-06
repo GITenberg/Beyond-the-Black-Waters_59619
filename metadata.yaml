@@ -1,5 +1,8 @@
 _repo: Beyond-the-Black-Waters_59619
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59619-h/images/cover.jpg
 creator:
   author:
     agent_name: A. L. O. E.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31385
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59619#Beyond-the-Black-Waters
 gutenberg_issued: '2019-05-27'
 gutenberg_type: Text
 identifiers:
